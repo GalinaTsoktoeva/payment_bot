@@ -3,7 +3,7 @@ Description=tg-bot
 After=multi-user.target
 
 [Service]
-User=root
+User=gal-tsok
 Group=root
 Type=simple
 Restart=always
