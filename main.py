@@ -12,8 +12,6 @@ from aiogram.fsm.storage.memory import MemoryStorage
 
 from handlers import router
 
-# load_dotenv('.env')
-# my_token = os.getenv("TELEGRAM_TAKEN")
 my_token='6353723336:AAEr4ve2Eb4IhthEo1V3414mk3imd7Uj5iM'
 async def main():
     print(my_token)
